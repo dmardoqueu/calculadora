@@ -49,3 +49,8 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 
 - Após calcular uma expressão, clique no botão `Copy` para copiar o resultado exibido para a área de transferência. O botão mudará para `Copied!` para confirmar que o texto foi copiado.
 
+## Contato
+
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato!
+
+Made by [@dmardoqueu](https://github.com/dmardoqueu) 
