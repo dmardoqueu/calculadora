@@ -118,3 +118,21 @@
     border-color: var(--primary-color) !important;
     color: var(--primary-color) !important;
   }
+
+  #footer {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: var(--font-color);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+hr {
+  border-color: var(--border-color);
+  border-width: 0.01rem; border-top-width: 0px;
+}
+
+#footer a {
+  color: var(--font-color);
+}
