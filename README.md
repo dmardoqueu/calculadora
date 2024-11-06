@@ -37,7 +37,9 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 
 ## 📸 Captura de Tela
 
-![image](https://github.com/user-attachments/assets/b484c8bc-9cf8-424c-a4eb-8a9ac4566c49)
+![image](https://github.com/user-attachments/assets/c717bc64-fe92-449d-a5d8-456e2e0a15f7)
+![image](https://github.com/user-attachments/assets/76a5056b-fd66-49e9-9f91-6e85c4d5c262)
+
 
 ## 🌟 Funcionalidades Detalhadas
 
@@ -49,3 +51,8 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 
 - Após calcular uma expressão, clique no botão `Copy` para copiar o resultado exibido para a área de transferência. O botão mudará para `Copied!` para confirmar que o texto foi copiado.
 
+## Contato
+
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato!
+
+Made by [@dmardoqueu](https://github.com/dmardoqueu) 
