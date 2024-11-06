@@ -1,6 +1,6 @@
 # Projeto Calculadora
 
-Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**. A calculadora permite realizar operações matemáticas básicas e inclui funcionalidades adicionais como alternância de temas e a capacidade de copiar o resultado para a área de transferência.
+Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **JavaScript**. A calculadora permite realizar operações matemáticas básicas e inclui funcionalidades adicionais, como alternância de temas e a capacidade de copiar o resultado para a área de transferência.
 
 ## 🚀 Funcionalidades
 
@@ -13,7 +13,12 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 
 - `index.html`: Estrutura HTML da interface da calculadora.
 - `style.css`: Estilos utilizados para a interface da calculadora.
-- `index.js`: Lógica em JavaScript para as operações e interatividade.
+- `js/`: Contém os arquivos JavaScript modulados para maior organização:
+  - `index.js`: Arquivo principal que importa e coordena os módulos.
+  - `calculate.js`: Lógica para cálculo das expressões inseridas.
+  - `copyToClipboard.js`: Função para copiar o resultado da operação para a área de transferência.
+  - `keyHandlers.js`: Manipuladores de eventos para os botões e teclas da calculadora.
+  - `themeSwitcher.js`: Função para alternar o tema entre claro e escuro.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -40,7 +45,6 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 ![image](https://github.com/user-attachments/assets/c717bc64-fe92-449d-a5d8-456e2e0a15f7)
 ![image](https://github.com/user-attachments/assets/76a5056b-fd66-49e9-9f91-6e85c4d5c262)
 
-
 ## 🌟 Funcionalidades Detalhadas
 
 ### Alternância de Tema
@@ -55,4 +59,4 @@ Este projeto é uma calculadora simples desenvolvida com **HTML**, **CSS** e **J
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato!
 
-Made by [@dmardoqueu](https://github.com/dmardoqueu) 
+Made by [@dmardoqueu](https://github.com/dmardoqueu)
